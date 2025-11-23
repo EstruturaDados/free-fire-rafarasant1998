@@ -106,7 +106,24 @@ O usuário:
 - Exibição dos **dados do item buscado** ou mensagem de erro
 - **Quantidade de comparações** realizadas durante a ordenação
 
+## ▶️ Compilação e Execução 
 
+Para compilar o código, execute o comando abaixo no terminal:
+
+```
+gcc main.c -o programa
+```
+E para executá-lo:
+
+```bash
+./programa
+```
+
+Ou no Windows:
+
+```bash
+programa.exe
+```
 
 ## 🏁 Conclusão
 
